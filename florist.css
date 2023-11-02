@@ -1,0 +1,72 @@
+body {
+    text-align: center;
+    background-color: rgb(229, 240, 227);
+}
+h1 {
+    color: rgb(5, 83, 5);
+    text-align: center;
+
+}
+
+.navbar {
+    background-color: rgb(241, 248, 240);
+    height: 50px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.navbar a {
+    text-decoration: none;
+    color: rgb(3, 41, 30);
+}
+.navbar a:hover {
+    color: rgb(191, 201, 58);
+}
+
+.firstpage {
+    display: block;
+    justify-content: center;
+}
+
+.selection {
+    /* border: red 5px solid;  */
+    display: flex;
+    justify-content: space-between;
+
+}
+.flowers2 {
+    /* border: blue 5px solid; */
+    width: 30%;
+    text-align: center;
+}
+img {
+    width: 90%;
+}
+
+.selection2 {
+    /* border: red 5px solid;  */
+    display: flex;
+    justify-content: space-between;
+
+}
+
+.flowers3 {
+    /* border: blue 5px solid; */
+    width: 30%;
+    text-align: center;
+}
+
+.socials {
+    background-color: rgb(241, 248, 240);
+    height: 50px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.socials a {
+    text-decoration: none;
+    color: black;
+}
+.socials a:hover {
+    color: rgb(191, 201, 58);
+}
