@@ -26,6 +26,7 @@ h1 {
 .firstpage {
     display: block;
     justify-content: center;
+    width: 50%;
 }
 
 .selection {
